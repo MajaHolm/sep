@@ -170,4 +170,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"]P4l1%*{`=9CV}y$:::I"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="lmH90GN;$VqG6;Wc*6oi"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"]P4l1%*{`=9CV}y$:::I"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="lmH90GN;$VqG6;Wc*6oi"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></statement></block><block type="controls_if" id="$o+!ka)Mh02UD8IRk?vX" disabled="true" x="310" y="370"><value name="IF0"><shadow type="logic_boolean" id="M?=l=M9~-o3Ck/iOa_y9" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block></xml>
